@@ -1,0 +1,123 @@
+body {
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+h1 {
+    margin-bottom: 20px;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    line-height: 2;
+  
+}
+
+h2 {
+    margin-top: 0px;
+    color: #66BFBF;
+    font-weight: normal;
+    text-align: center;
+   
+    
+}
+p{
+    margin-bottom: 50px;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    margin: 0 auto;
+    padding: 100px 0;
+    
+}
+
+hr {
+    border: dotted #6960b3;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.mountain{
+    width: 700px;
+    height: 500px;
+    position: relative;
+    left: auto;
+}
+.cloud {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 60px;
+    right: 350px;
+}
+
+.skill-row{
+    text-align: left;
+}
+.anarchy {
+    width: 10%;
+    float: left;
+    margin-right: 20px;
+}
+.middle-container {
+    text-align: left;
+}
+.bottom-container {
+    text-align: center;
+    margin-top: 100px;
+    background-color: #c0bed1;
+    padding-top:  20px; 
+    padding-bottom: 20px;
+}
+.profile {
+   line-height: 2;
+   text-align: center;
+}
+.manoj {
+    
+    text-align: center;
+    width: 15%;
+    
+}
+ .contact-me {
+     text-align: center;
+ }
+    
+ .btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 24;
+    -moz-border-radius: 24;
+    border-radius: 24px;
+    text-shadow: 0px 0px 0px #120412;
+    font-family: Georgia;
+    color: #2df51b;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+a{
+    color: #11999E;
+    font-family: 'Merriweather', serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #e68226;
+}
